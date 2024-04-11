@@ -28,11 +28,16 @@ A snapshot is taken of the folder profile, and it is saved into a repository.
 ## Basic workflow commands in git
 
 - `git init`
-
+This creates a git repository in the corresponding directory
 - `git status`
-
+This shows which files/ folders are staged (ready to be committed)
 - `git add`
-
+This adds a file/folder to the stage (ready to be committed)
 - `git commit -m`
+This commits the staged files/folders to the git repo
 
-[//]: # (What can we use `git log` and `git diff` for?)
+## What can we use `git log` and `git diff` for?
+- `git log`
+Shows the commit history to the corresponding repository
+- `git diff`
+Helps me see, compare and understand changes between different commits
