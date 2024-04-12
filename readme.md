@@ -35,6 +35,8 @@ This shows which files/ folders are staged (ready to be committed)
 This adds a file/folder to the stage (ready to be committed)
 - `git commit -m`
 This commits the staged files/folders to the git repo
+- `.gitignore`
+This creates a folder that hides other folders from git status
 
 ## What can we use `git log` and `git diff` for?
 - `git log`
