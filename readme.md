@@ -71,3 +71,19 @@ git remote add origin https://github.com/temianibaba/tech258_git.git
 git branch -M main
 git push -u origin main
 ```
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+
+
+- When you haven't initialised a local repo
+
+```
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/temianibaba/test.git
+git push -u origin main
+```
