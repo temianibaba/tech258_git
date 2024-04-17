@@ -47,12 +47,12 @@ Helps me see, compare and understand changes between different commits
 <ins>Diagram 1<ins><br>
 
 
-![img_2.png](images%2Fimg_2.png)
+![img_2.png](img_2.png) 
 
 
 <ins>Diagram 2<ins>
 
-![img_5.png](images%2Fimg_5.png)
+![img_5.png](img_5.png)
 
 ## Git vs GitHub
 Diagram 1 shows the link between users and Git, a local repository. Diagram 2 shows the link between local repositories and
@@ -71,9 +71,9 @@ git remote add origin https://github.com/temianibaba/tech258_git.git
 git branch -M main
 git push -u origin main
 ```
-![img_6.png](images%2Fimg_6.png)
-![img_7.png](images%2Fimg_7.png)
-![img_8.png](images%2Fimg_8.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
 
 
 - When you haven't initialised a local repo
