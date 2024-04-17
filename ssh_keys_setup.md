@@ -17,7 +17,3 @@ It can be advised to have a folder exclusively for SSH keys, this folder can als
 ### 6. Use `ssh -T git@github.com<br>` to test the connection. <br>
 I included my mistake in this screenshot
 ![img_13.png](images%2Fimg_13.png)<br>
-### 7. Go to github repo and copy clone SSH url.<br>
-![img_14.png](images%2Fimg_14.png)<br>
-### 8. Use git clone with SSH url.<br>
-![img_15.png](images%2Fimg_15.png)<br>
