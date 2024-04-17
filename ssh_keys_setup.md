@@ -14,6 +14,6 @@ It can be advised to have a folder exclusively for SSH keys, this folder can als
 ![img_11.png](images%2Fimg_11.png)<br>
 ### 5. Use the `ssh-add "path to ssh key folder"` command.<br>
 ![img_12.png](images%2Fimg_12.png)<br> 
-### 6. Use `ssh -T git@github.com<br>` to test the connection. <br>
+### 6. Use `ssh -T git@github.com` to test the connection. <br>
 I included my mistake in this screenshot
 ![img_13.png](images%2Fimg_13.png)<br>
