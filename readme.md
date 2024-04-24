@@ -1,4 +1,15 @@
 # Git Basics
+- [Git Basics](#git-basics)
+  - [Version control](#version-control)
+  - [Git and how it operates](#git-and-how-it-operates)
+    - [Modify](#modify)
+    - [Staged](#staged)
+    - [Committed](#committed)
+  - [Basic workflow commands in git](#basic-workflow-commands-in-git)
+  - [What can we use `git log` and `git diff` for?](#what-can-we-use-git-log-and-git-diff-for)
+- [Distributed Version Control](#distributed-version-control)
+  - [Git vs GitHub](#git-vs-github)
+  - [How to link Git and GitHub](#how-to-link-git-and-github)
 
 ## Version control
 Put simply it is the practice of tracking and managing changes made to software. It allows us as developers to jump into 
@@ -87,3 +98,4 @@ git branch -M main
 git remote add origin https://github.com/temianibaba/test.git
 git push -u origin main
 ```
+** **

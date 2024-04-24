@@ -17,3 +17,4 @@ It can be advised to have a folder exclusively for SSH keys, this folder can als
 ### 6. Use `ssh -T git@github.com` to test the connection. <br>
 I included my mistake in this screenshot
 ![img_13.png](images%2Fimg_13.png)<br>
+** **
