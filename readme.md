@@ -10,6 +10,7 @@
 - [Distributed Version Control](#distributed-version-control)
   - [Git vs GitHub](#git-vs-github)
   - [How to link Git and GitHub](#how-to-link-git-and-github)
+  - [Creating a new branch](#creating-a-new-branch)
 
 ## Version control
 Put simply it is the practice of tracking and managing changes made to software. It allows us as developers to jump into 
@@ -98,4 +99,9 @@ git branch -M main
 git remote add origin https://github.com/temianibaba/test.git
 git push -u origin main
 ```
-** **
+## Creating a new branch
+```bash
+git branch #(name branch)
+git checkout #(name branch) - moves to new branch
+git branch -d #branch_name - delete branch
+```
